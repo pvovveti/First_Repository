@@ -1,3 +1,2 @@
-# First_Repository
-This is a test repository.
-Committing in current branch.
+# Go Lang Hello World 
+This is a Hello world repository.
